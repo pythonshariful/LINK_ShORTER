@@ -6,7 +6,7 @@ git clone https://github.com/pythonshariful/LINK_ShORTER
 ```
 
 ```
-LINK_ShORTER
+cd LINK_ShORTER
 ```
 ```
 pip install -r requirements.txt
